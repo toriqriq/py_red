@@ -1,6 +1,6 @@
-# So-VITS Project
+# RVC Project
 
-Proyek ini dipersiapkan untuk mengubah suara A menjadi suara B dengan So-VITS.
+Proyek ini dipersiapkan untuk mengubah suara A menjadi suara B dengan RVC.
 
 ## Struktur folder
 
@@ -27,6 +27,6 @@ Proyek ini dipersiapkan untuk mengubah suara A menjadi suara B dengan So-VITS.
 
 ## Langkah berikutnya
 
-- Clone repositori So-VITS ke folder proyek atau ke subfolder terpisah.
+- Clone repositori RVC ke folder proyek atau ke subfolder terpisah.
 - Siapkan environment Python di Windows.
 - Jalankan preprocessing setelah dataset siap.
